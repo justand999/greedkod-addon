@@ -4,7 +4,7 @@
 Расширение для поиска скидок, купонов, промокодов и показа их прямо на сайте доступно на странице:
 https://greedkod.ru/addon
 
-Ссылка для скачивания (Гугл хром): https://chromewebstore.google.com/detail/поиск-скидок-и-промокодов/nkgkdbfedmcdfpkhkbkigapjacdgolhb
+Ссылка для скачивания (Гугл хром и Яндекс браузер): https://chromewebstore.google.com/detail/поиск-скидок-и-промокодов/nkgkdbfedmcdfpkhkbkigapjacdgolhb
 Ссылка для скачивания (Фаерфокс): https://addons.mozilla.org/ru/firefox/addon/поиск-скидок-и-промокодов/
 
 Скоро будет и для других браузеров, проверьте телеграм канал https://t.me/greedkodru Возможно расширение уже доступно для вашего браузера
